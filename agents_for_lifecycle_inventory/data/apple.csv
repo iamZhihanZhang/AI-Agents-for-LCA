@@ -1,0 +1,210 @@
+product_class,product_name,manufacturer,report_date,gwp_total_kg_co2e
+Desktop,24-inch iMac,Apple,20-Apr-21,481
+Desktop,Apple TV 4K 32GB with Siri Remote (2nd generation),Apple,20-Apr-21,59
+Desktop,the 27-inch iMac with Retina 5K display with 3,Apple,4-Aug-20,824
+Desktop,Mac Pro 3,Apple,10-Dec-19,765
+Desktop,iMac Pro,Apple,14-Dec-17,468
+Desktop,Mac mini with M2 with 256GB,Apple,17-Jan-23,112
+Desktop,Mac mini,Apple,20-Jul-11,280
+Desktop,Mac mini with Lion Server,Apple,20-Jul-11,1130
+Desktop,21.5-inch iMac,Apple,27-Jul-10,1240
+Desktop,27-inch iMac,Apple,27-Jul-10,1940
+Desktop,Mac mini,Apple,15-Jun-10,270
+Desktop,Mac mini with Snow Leopard Server,Apple,15-Jun-10,710
+Desktop,21.5-inch iMac,Apple,18-Jun-14,600
+Desktop,21.5-inch iMac,Apple,5-Jun-17,494
+Desktop,21.5-inch iMac,Apple,5-Jun-17,494
+Desktop,Mac Pro with 1TB,Apple,5-Jun-23,1572
+Desktop,"Mac Studio + M2 Max, 512GB",Apple,5-Jun-23,290
+Desktop,"Mac Studio with Apple M1 Max, 32GB memory, and 512GB",Apple,18-Mar-22,262
+Desktop,Mac Pro,Apple,3-Mar-09,2110
+Desktop,TV,Apple,7-Mar-12,60
+Desktop,21.5-inch iMac,Apple,3-May-11,970
+Desktop,27-inch iMac,Apple,3-May-11,1470
+Desktop,"Mac mini (M1, 2020) with 256GB",Apple,10-Nov-20,172
+Desktop,Mac mini,Apple,16-Oct-14,530
+Desktop,Mac Pro,Apple,22-Oct-13,1000
+Desktop,Mac Pro,Apple,22-Oct-13,940
+Desktop,21.5-inch iMac,Apple,23-Oct-12,640
+Desktop,27-inch iMac,Apple,23-Oct-12,1010
+Desktop,Mac mini,Apple,23-Oct-12,290
+Desktop,Mac mini with OS X Server,Apple,23-Oct-12,1020
+Desktop,Mac mini,Apple,30-Oct-18,270
+Desktop,iMac with two ports and 256GB,Apple,30-Oct-23,359
+Desktop,TV,Apple,1-Sep-10,60
+Desktop,21.5-inch iMac,Apple,24-Sep-13,610
+Desktop,27-inch iMac,Apple,24-Sep-13,1000
+Desktop,TV (4th generation),Apple,9-Sep-15,65
+Desktop,TV HD,Apple,9-Sep-15,61
+Desktop,27-inch iMac with Retina 5K display with 3,Apple,,1055.25
+Smartphone,iPod nano,Apple,14-Jul-15,25
+Smartphone,iPod shuffle,Apple Inc.,14-Jul-15,10
+Smartphone,iPod touch (5th generation) 16GB,Apple,10-Jun-13,45
+Smartphone,iPod shuffle,Apple,11-Mar-09,10
+Smartphone,iPod touch (7th generation),Apple,28-May-19,32
+Desktop,Apple TV 4K (3rd generation) with 64GB,Apple,18-Oct-22,43
+Smartphone,iPod shuffle,Apple,1-Sep-10,9
+Smartphone,iPod shuffle,Apple,12-Sep-12,10
+IoT,Watch,Apple,24-Apr-15,50
+IoT,HomePod (2nd generation),Apple,18-Jan-23,92
+IoT,HomePod,Apple,26-Jan-18,146
+IoT,HomePod mini,Apple,13-Oct-20,42
+IoT,Watch Series 3 (GPS + Cellular),Apple,12-Sep-17,36
+IoT,Watch Series 3 (GPS + Cellular),Apple,12-Sep-17,36
+IoT,Watch Series 3 (GPS),Apple,12-Sep-17,28
+IoT,Watch Series 3 (GPS),Apple,12-Sep-17,28
+IoT,Watch Series 4 (GPS + Cellular),Apple,12-Sep-18,39
+IoT,Watch Series 4 (GPS),Apple,12-Sep-18,38
+IoT,Apple Watch SE GPS + Cellular 44mm paired with Sport Loop,Apple,12-Sep-23,2
+IoT,Apple Watch Series 9 GPS + Cellular 45mm aluminum case paired with Sport Loop,Apple,12-Sep-23,1
+IoT,Apple Watch Ultra 2 paired with Alpine Loop,Apple,12-Sep-23,1
+IoT,stainless steel Apple Watch Series 9 GPS + Cellular 45mm paired with Sport Loop,Apple,12-Sep-23,29
+IoT,Apple Watch Series 7 (GPS + Cellular) 45mm Aluminum Case with Sport Band,Apple,14-Sep-21,34
+IoT,Apple Watch SE (GPS + Cellular) 44mm Aluminum Case with Sport Band,Apple,15-Sep-20,35
+IoT,Apple Watch Series 6 (GPS + Cellular) 44mm Aluminum Case with Sport Band,Apple,15-Sep-20,36
+IoT,Watch Series 1,Apple,7-Sep-16,20
+IoT,Watch Series 2,Apple,7-Sep-16,30
+IoT,Apple Watch Series 8 45mm Aluminum Case with Sport Band,Apple,7-Sep-22,33
+IoT,Apple Watch Ultra (GPS + Cellular) Titanium Case with Ocean Band,Apple,7-Sep-22,56
+IoT,Watch,Apple,9-Sep-15,50
+IoT,"Sport Loop, Alpine Loop, and Trail Loop Apple Watch bands",Apple,,1
+IoT,the Apple Watch Series 5 (GPS + Cellular) 44mm Aluminum Case with Sport Band 32GB memory,Apple,,40
+Laptop,12-inch MacBook,Apple,19-Apr-16,430
+Laptop,11-inch MacBook Air,Apple,29-Apr-14,430
+Laptop,13-inch MacBook Air,Apple,29-Apr-14,480
+Laptop,13-inch MacBook Pro with Retina Display,Apple,13-Feb-13,540
+Laptop,15-inch MacBook Pro with Retina Display,Apple,13-Feb-13,710
+Laptop,13-inch MacBook Pro,Apple,24-Feb-11,350
+Laptop,15-inch MacBook Pro,Apple,24-Feb-11,460
+Laptop,17-inch MacBook Pro,Apple,24-Feb-11,540
+Laptop,14-inch MacBook Pro with 64GB,Apple,17-Jan-23,243
+Laptop,16-inch MacBook Pro with 64GB,Apple,17-Jan-23,300
+Laptop,13-inch MacBook Pro,Apple,12-Jul-18,229
+Laptop,15-inch MacBook Pro,Apple,12-Jul-18,366
+Laptop,11-inch MacBook Air,Apple,20-Jul-11,270
+Laptop,13-inch MacBook Air,Apple,20-Jul-11,320
+Laptop,13-inch MacBook Pro with Retina Display,Apple,29-Jul-14,710
+Laptop,11-inch MacBook Air,Apple,10-Jun-13,320
+Laptop,13-inch MacBook Air,Apple,10-Jun-13,360
+Laptop,11-inch MacBook Air,Apple,11-Jun-12,300
+Laptop,13-inch MacBook Air,Apple,11-Jun-12,340
+Laptop,13-inch MacBook Pro,Apple,11-Jun-12,580
+Laptop,15-inch MacBook Pro,Apple,11-Jun-12,690
+Laptop,MacBook Pro with Retina Display,Apple,11-Jun-12,710
+Laptop,12-inch MacBook,Apple,5-Jun-17,306
+Laptop,13-inch MacBook Air,Apple,5-Jun-17,339
+Laptop,13-inch MacBook Pro with Thunderbolt 3,Apple,5-Jun-17,302
+Laptop,15-inch MacBook Pro with Thunderbolt 3,Apple,5-Jun-17,449
+Laptop,MacBook Air 15-inch with M2chip with 256GB,Apple,5-Jun-23,139
+Laptop,MacBook Air with M2 chip and256GB,Apple,6-Jun-22,147
+Laptop,"MacBook Pro (M2, 2022) with 256GB",Apple,6-Jun-22,167
+Laptop,the 13-inch MacBook Air with Retina display with 256GB,Apple,18-Mar-20,174
+Laptop,11-inch MacBook Air,Apple,9-Mar-15,430
+Laptop,12-inch MacBook,Apple,9-Mar-15,470
+Laptop,13-inch MacBook Air,Apple,9-Mar-15,480
+Laptop,13-inch MacBook Pro with Retina display,Apple,9-Mar-15,439
+Laptop,13-inch MacBook Pro with Retina display,Apple,9-Mar-15,710
+Laptop,15-inch MacBook Pro with Retina display,Apple,19-May-15,592
+Laptop,15-inch MacBook Pro with Retina display,Apple,19-May-15,870
+Laptop,13-inch MacBook Pro,Apple,21-May-19,222
+Laptop,15-inch MacBook Pro,Apple,21-May-19,334
+Laptop,the 13-inch MacBook Pro with 256GB,Apple,4-May-20,217
+Laptop,"MacBook Air (M1, 2020) with 256GB",Apple,10-Nov-20,161
+Laptop,"MacBook Pro (13-inch, M1, 2020) with 256GB",Apple,10-Nov-20,185
+Laptop,the 16-inch MacBook Pro 512GB,Apple,13-Nov-19,394
+Laptop,the 14-inch MacBook Pro with 512GB,Apple,18-Oct-21,271
+Laptop,the 16-inch MacBook Pro with 512GB,Apple,18-Oct-21,349
+Laptop,MacBook,Apple,20-Oct-09,350
+Laptop,11-inch MacBook Air,Apple,20-Oct-10,280
+Laptop,13-inch MacBook Air,Apple,20-Oct-10,330
+Laptop,13-inch MacBook Pro with Retina Display,Apple,23-Oct-12,540
+Laptop,13-inch MacBook Pro,Apple,24-Oct-11,360
+Laptop,15-inch MacBook Pro,Apple,24-Oct-11,460
+Laptop,17-inch MacBook Pro,Apple,24-Oct-11,550
+Laptop,13-inch MacBook Pro with Thunderbolt 3,Apple,27-Oct-16,321
+Laptop,15-inch MacBook Pro with Thunderbolt 3,Apple,27-Oct-16,461
+Laptop,12-inch MacBook,Apple,30-Oct-18,233
+Laptop,14-inch MacBook Pro with M3 512GB,Apple,30-Oct-23,202
+Laptop,16-inch MacBook Pro,Apple,30-Oct-23,290
+Laptop,the 13-inch MacBook Pro (128GB) memory,Apple,,210
+Display,Pro Display XDR with Pro Stand,Apple,4-Dec-19,974
+Display,Thunderbolt Display,Apple,20-Jul-11,1040
+Display,27-inch LED Cinema Display,Apple,27-Jul-10,1230
+Display,27-inch iMac with Retina 5K Display,Apple,5-Jun-17,1005
+Display,Apple Studio Display with tilt-adjustable stand,Apple,18-Mar-22,544
+Display,LED Cinema Display,Apple,14-Oct-08,980
+Display,21.5-inch iMac and 21.5-inch iMac with Retina 4K Display,Apple,,630
+Display,27-inch iMac with Retina 5K Display,Apple,,1010
+Smartphone,the iPhone SE (2nd generation) with 64GB,Apple,15-Apr-20,57
+Smartphone,iPod touch (6th generation),Apple,14-Jul-15,70
+Smartphone,iPhone 4,Apple,24-Jun-10,45
+Smartphone,iPod touch (5th generation),Apple,26-Jun-14,60
+Smartphone,iPhone 3G,Apple,8-Jun-09,55
+Smartphone,iPhone 3GS,Apple,8-Jun-09,55
+Smartphone,iPhone SE (3rd generation) with 64GB,Apple,18-Mar-22,46
+Smartphone,iPhone SE,Apple,21-Mar-16,345
+Smartphone,iPhone 12 mini with 64GB,Apple,13-Oct-20,64
+Smartphone,iPhone 12 Pro Max with 128GB,Apple,13-Oct-20,86
+Smartphone,iPhone 12 Pro with 128GB,Apple,13-Oct-20,82
+Smartphone,iPhone 12 with 64GB,Apple,13-Oct-20,70
+Smartphone,iPod nano,Apple,1-Sep-10,13
+Smartphone,iPhone 5s,Apple,10-Sep-13,65
+Smartphone,iPhone 4S,Apple,12-Sep-12,55
+Smartphone,iPhone 5,Apple,12-Sep-12,75
+Smartphone,iPod nano,Apple,12-Sep-12,25
+Smartphone,iPhone 8,Apple Inc.,12-Sep-17,457
+Smartphone,iPhone 8 Plus,Apple,12-Sep-17,468
+Smartphone,iPhone X,Apple,12-Sep-17,479
+Smartphone,iPhone XR,Apple,12-Sep-18,462
+Smartphone,iPhone XS,Apple,12-Sep-18,470
+Smartphone,iPhone Xs Max,Apple,12-Sep-18,477
+Smartphone,iPhone 15 128GB,Apple,12-Sep-23,56
+Smartphone,iPhone 15 Pro with 128GB,Apple,12-Sep-23,66
+Smartphone,iPhone 13 mini with 128GB,Apple,14-Sep-21,61
+Smartphone,iPhone 13 Pro Max with 128GB,Apple,14-Sep-21,74
+Smartphone,iPhone 13 Pro with 128GB,Apple,14-Sep-21,69
+Smartphone,iPhone 13 with 128GB,Apple,14-Sep-21,64
+Smartphone,iPhone 7,Apple,7-Sep-16,356
+Smartphone,iPhone 7 Plus,Apple,7-Sep-16,367
+Smartphone,iPhone 14 Pro Max with 128GB,Apple,7-Sep-22,73
+Smartphone,iPhone 14 Pro with 128GB,Apple,7-Sep-22,65
+Smartphone,iPhone 14 with 128GB,Apple,7-Sep-22,60
+Smartphone,iPod classic,Apple,9-Sep-09,45
+Smartphone,iPod nano,Apple Inc.,9-Sep-09,15
+Smartphone,iPod touch,Apple,9-Sep-09,33
+Smartphone,iPhone 5c,Apple,9-Sep-14,50
+Smartphone,iPhone 6,Apple,9-Sep-14,95
+Smartphone,iPhone 6s,Apple,9-Sep-15,54
+Smartphone,iPhone 6s Plus,Apple,9-Sep-15,63
+spatial computing headset,Apple Vision Pro with 256GB,Apple,2-Feb-24,335
+Tablet,iPad Pro 11-inch (3rd generation) Wi-Fi + Cellular 128GB,Apple,20-Apr-21,99
+Tablet,iPad Pro 12,Apple,20-Apr-21,138
+Tablet,iPad Pro (10.5-inch),Apple,5-Jun-17,100
+Tablet,iPad Pro (12.9-inch),Apple,5-Jun-17,122
+Tablet,iPad Pro 12,Apple,18-Mar-20,140
+Tablet,the iPad Pro 11-inch (2nd generation) with 128GB,Apple,18-Mar-20,119
+Tablet,iPad Air (5th generation) with 64GB,Apple,18-Mar-22,80
+Tablet,iPad 2,Apple,2-Mar-11,105
+Tablet,9.7-inch iPad Pro,Apple,21-Mar-16,6210
+Tablet,iPad,Apple,21-Mar-17,135
+Tablet,iPad,Apple,27-Mar-18,398
+Tablet,iPad,Apple,7-Mar-12,180
+Tablet,iPad Air,Apple,7-May-24,91
+Tablet,iPad Pro,Apple,7-May-24,107
+Tablet,iPad mini 3,Apple,16-Oct-14,170
+Tablet,iPad (10th generation) Wi-Fi + Cellular with 64GB,Apple,18-Oct-22,72
+Tablet,iPad Pro 11-inch (4th generation) with 128GB,Apple,18-Oct-22,100
+Tablet,iPad Pro 12,Apple,18-Oct-22,135
+Tablet,iPad Air,Apple,22-Oct-13,210
+Tablet,iPad mini,Apple,22-Oct-13,120
+Tablet,iPad mini with Retina Display,Apple,22-Oct-13,170
+Tablet,iPad,Apple,23-Oct-12,170
+Tablet,iPad mini,Apple,23-Oct-12,95
+Tablet,iPad Air 2,Apple,16-Oct-14,190
+Tablet,iPad (9th generation) Wi-Fi + Cellular with 64GB,Apple,14-Sep-21,75
+Tablet,iPad mini (6th generation) with 64GB,Apple,14-Sep-21,68
+Tablet,iPad (8th generation) Wi-Fi + Cellular with 32GB,Apple,15-Sep-20,70
+Tablet,iPad Air (4th generation) with 64GB,Apple,15-Sep-20,82
+Tablet,12.9-inch iPad Pro,Apple,9-Sep-15,270
+Tablet,iPad mini 4,Apple,9-Sep-15,120
+Tablet,iPad 2,Apple,,130

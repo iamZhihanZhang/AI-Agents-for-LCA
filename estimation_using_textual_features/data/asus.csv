@@ -1,0 +1,209 @@
+product_class,manufacturer,product_name,report_date,assembly_location,chip_CPU,chip_GPU,chip_SoC,number_of_cores_CPU,number_of_cores_GPU,number_of_cores_SoC,hard_drive_name,hard_drive_type,hard_drive_size_gb,memory_gb,battery_capacity_mah,display_size,display_type,display_max_brightness_nits,display_refresh_rate_hz,yearly_household_energy_consumption_kWh,lifetime_years,dimension_width_cm,dimension_height_cm,dimension_depth_cm,weight_kg,gwp_total_kg_co2e,GWP_manufacturing_phase,GWP_transport_phase,GWP_use_phase,GWP_end_of_life_phase,TEC of Model (kWh),Panel Type,Native Resolution (pixels),Screen Size (inches),Screen Area (square inches),On Mode Power (watts),Sleep Mode Power (watts),Climate+,EPEAT Score,EPEAT Tier,TCO Certified
+Desktop,ASUS,Mini PC PB62,Oct. 2021,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,224,,,0.12,,29.1,,,,,,,FALSE,32 of 42,Gold,
+Desktop,ASUS,ExpertCenter D9 Mini Tower (D900MDRES),September. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,528,0.609,0.001,0.389,0.001,51.1,,,,,,,TRUE,27 of 48,Silver,
+Desktop,ASUS,ExpertCenter D9 SFF (D900SD),October. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,485,,,,0.001,37.5,,,,,,,TRUE,26 of 48,Silver,
+Desktop,ASUS,ExpertCenter D9 Mini Tower (D900MD),October. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,517,0.542,0.001,0.456,0.001,51.1,,,,,,,TRUE,27 of 48,Silver,
+Desktop,ASUS,ExpertCenter PN52,22-Oct,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,259,,,0.405,,47.3,,,,,,,FALSE,25 of 47,Silver,
+Desktop,ASUS,Mini PC PN63-S1,22-Oct,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,226,0.405,0.01,,,30.2,,,,,,,FALSE,25 of 47,Silver,
+Desktop,ASUS,ExpertCenter D5 SFF (D500SD),December. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,532,,,,,53.1,,,,,,,FALSE,24 of 48,Silver,
+Desktop,ASUS,ExpertCenter D7 SFF D700SC,December. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,541,0.628,0.001,0.37,0.001,44.3,,,,,,,FALSE,26 of 48,Silver,
+Desktop,ASUS,ExpertCenter D5 Mini Tower D500MD,December. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,594,0.498,0.001,0.5,0.001,71,,,,,,,FALSE,24 of 48,Silver,
+Desktop,ASUS,ExpertCenter D7 Mini Tower D700MD,December. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,600,0.482,0.001,0.516,0.001,71.4,,,,,,,FALSE,24 of 48,Silver,
+Desktop,ASUS,ExpertCenter PN53,December. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,210,0.56,0.001,0.438,0.001,28.7,,,,,,,FALSE,27 of 47,Silver,
+Desktop,ASUS,ExpertCenter D5 SFF (D500SC),December. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,567,0.561,0.001,0.437,0.001,42.7,,,,,,,FALSE,25 of 48,Silver,
+Desktop,ASUS,ExpertCenter D7 Mini Tower D700MC,December. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,540,0.576,0.001,0.422,0.001,73.5,,,,,,,FALSE,24 of 48,Silver,
+Desktop,ASUS,ExpertCenter D7 SFF D700SD,December. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,509,0.573,0.001,0.425,0.001,42.9,,,,,,,FALSE,24 of 48,Silver,
+Desktop,ASUS,Mini PC PL64,February. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,225,0.453,0.001,,0.001,35.1,,,,,,,FALSE,24 of 44,Silver,
+Desktop,ASUS,Mini PC PL63,February. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,198,0.546,0.001,,,28,,,,,,,FALSE,24 of 44,Silver,
+Desktop,ASUS,ExpertCenter D8 SFF (D800SDR),August. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,419,0.686,,,0.002,39.9,,,,,,,FALSE,25 of 48,Silver,
+Desktop,ASUS,ExpertCenter D8 Mini Tower (D800MDR),August. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,612,0.565,0.001,0.433,0.001,57.1,,,,,,,FALSE,26 of 48,Silver,
+Desktop,ASUS,ExpertCenter D9 DFF (D900SDRES),September. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,432,0.724,0.001,0.274,0.001,37.5,,,,,,,TRUE,26 of 48,Silver,
+Desktop,ASUS,Chromebox 5,September. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,211,,,,,31.7,,,,,,,FALSE,26 of 47,Silver,
+Desktop,ASUS,ExpertCenter D7 Mini Tower (D700MEES),October. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,509,0.454,0.001,0.544,0.001,61.9,,,,,,,FALSE,25 of 48,Silver,
+Desktop,ASUS,ExpertCenter D7 SFF (D700SEES),October. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,450,0.502,0.001,0.496,0.001,54.5,,,,,,,FALSE,26 of 48,Silver,
+Desktop,ASUS,ExpertCenter D5 Mini Tower (D500MEES),October. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,511,0.448,0.001,0.55,,40.5,,,,,,,FALSE,25 of 48,Silver,
+Desktop,ASUS,ExpertCenter D5 SFF (D500SEES),October. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,422,0.542,,0.456,,37.9,,,,,,,FALSE,25 of 48,Silver,
+Desktop,ASUS,MiniPC PB63,December. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,345,,,,,47.1,,,,,,,FALSE,33 of 44,Gold,
+Display,ASUS,BE279,Mar. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,757,0.556,,0.288,,39.43,IPS LCD,1920 x 1080,27,311.66,12.28,0.31,FALSE,23 of 46,Silver,TCO Certified Displays 9
+Display,ASUS,VA24DQSB,July. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,354,0.787,0.03,0.197,0.002,34.54,IPS LCD,1920 x 1080,23.8,242.18,11.03,0.13,FALSE,24 of 46,Silver,TCO Certified Displays 9
+Display,ASUS,ProArt Display PA328QV,Sep. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,615,,,0.261,,74.59,IPS LCD,2560 x 1440,31.5,424.92,23.96,0.2,FALSE,24 of 46,Silver,TCO Certified Displays 9
+Display,ASUS,BE24WQLB,Sep. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,422,0.796,0.002,0.2,0.002,,,,,,,,FALSE,25 of 46,Silver,
+Display,ASUS,BE24ECSNK,Sep. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,451,0.792,,,0.002,41.69,IPS LCD,1920 x 1080,23.8,242.18,13.24,0.19,FALSE,23 of 46,Silver,TCO Certified Displays 9
+Display,ASUS,BE24EQK,Sep. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,379,,,,,36.3,IPS LCD,1920 x 1080,23.8,242.18,11.2,0.3,FALSE,23 of 46,Silver,TCO Certified Displays 9
+Display,ASUS,BE27ACSBK,Sep. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,529,0.749,0.003,,0.002,60.15,IPS LCD,2560 x 1440,27,310.47,19.23,0.21,FALSE,23 of 46,Silver,TCO Certified Displays 9
+Display,ASUS,BE24EQSK,October. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,392,,,,,36.3,IPS LCD,1920 x 1080,23.8,242.18,11.2,0.3,FALSE,23 of 46,Silver,TCO Certified Displays 9
+Display,ASUS,BE279QSK,October. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,386,,0.003,,,39.43,IPS LCD,1920 x 1080,27,311.66,12.28,0.31,FALSE,23 of 46,Silver,TCO Certified Displays 9
+Display,ASUS,ProArt Display PA248CNV,Jan. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,369,0.808,0.003,0.187,0.002,32.43,IPS LCD,1920 x 1200,24.1,260.34,10,0.31,FALSE,26 of 46,Silver,TCO Certified Displays 9
+Display,ASUS,VA24EQSB,Jan. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,262,0.733,0.004,0.261,0.002,,,,,,,,FALSE,24 of 46,Silver,TCO Certified Edge Displays
+Display,ASUS,VA24 ECPSN,Feb. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,466,0.85,,,,44.09,TFT LCD,1920 x 1080,23.8,242.18,13.89,0.27,FALSE,24 of 46,Silver,TCO Certified Edge Displays
+Display,ASUS,VA27AQSB,August. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,339,0.793,0.003,0.202,0.002,,,,,,,,FALSE,25 of 46,Silver,TCO Certified Displays 9
+Display,ASUS,PA329CRV,September. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,518,0.652,,,,81.87,PEG,3840 x 2160,31.2,416.55,26.22,0.26,FALSE,35 of 46,Gold,TCO Certified Displays 9
+Display,ASUS,PA279CRV,September. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,412,0.569,0.003,0.427,0.001,81.34,AHVA LCD,3840 x 2160,27,310.47,26.14,0.21,FALSE,35 of 46,Gold,TCO Certified Displays 9
+Display,ASUS,VA229QSB,November. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,301,0.767,0.003,0.228,0.002,29.93,IPS LCD,1919 x 1080,21.5,197.6,9.52,0.13,FALSE,25 of 46,Silver,TCO Certified Displays 9
+Display,ASUS,VY279HGE,23-Dec,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,305,,0.003,,0.002,48.43,IPS LCD,1920 x 1080,27,311.37,15.5,0.16,FALSE,25 of 46,Silver,
+Display,ASUS,VY249H GE,December. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,253,,,,,42,IPS LCD,1920 x 1080,23.8,242.18,13.4,0.16,FALSE,25 of 46,Silver,
+Display,ASUS,VU279CFE-M,December. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,257,0.605,,,0.002,45.69,AAS LCD,1920 x 1080,27,311.67,14.4,0.27,FALSE,35 of 46,Gold,TCO Certified Displays 9
+Display,ASUS,VU279CFE-B,December. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,257,0.605,,,0.002,45.69,AAS LCD,1920 x 1080,27,311.67,14.4,0.27,FALSE,35 of 46,Gold,TCO Certified Displays 9
+Display,ASUS,VU249CFE-M,December. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,203,,,,0.002,31.24,AAS LCD,1920 x 1080,23.8,242.18,9.91,0.15,FALSE,35 of 46,Gold,TCO Certified Displays 9
+Display,ASUS,VA34VCPSN,December. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,253,,0.03,0.149,,89.51,TFT LCD,3440 x 1440,34,412.38,28.5,0.37,FALSE,25 of 46,Silver,TCO Certified Displays 9
+Display,ASUS,VA27EQSB,December. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,264,,0.1,,0.003,47.27,TFT LCD,1080 x 1920,27,311.67,14.81,0.21,FALSE,24 of 46,Silver,TCO Certified Edge Displays
+Display,ASUS,BE24 ECS BT,December. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,397,,,,,41.78,IPS LCD,1920 x 1080,23.8,242.18,13.2,0.23,FALSE,24 of 46,Silver,TCO Certified Displays 9
+Display,ASUS,VU249CFE-B,December. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,203,,,,0.002,31.24,AAS LCD,1920 x 1080,23.8,242.18,9.91,0.15,FALSE,35 of 46,Gold,TCO Certified Displays 9
+Display,ASUS,PA278CGV,February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,438,,,0.298,0.002,61.1,IPS LCD,2560 x 1440,27,310.47,19.5,0.23,FALSE,25 of 46,Silver,TCO Certified Displays 9
+Display,ASUS,PA348CGV,February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,616,,,,,61.45,IPS LCD,3440 x 1440,34.1,415.05,19.36,0.37,FALSE,26 of 46,Silver,TCO Certified Displays 9
+Display,ASUS,VY249HF,24-Feb,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,235,0.661,,,0.002,35.66,IPS LCD,1920 x 1080,23.8,243.36,11.35,0.15,FALSE,25 of 46,Silver,TCO Certified Displays 9
+Display,ASUS,PA2Z48C RV,September. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,327,0.728,0.004,0.266,0.002,40.31,AHVA LCD,1920 x 1200,24,260.34,12.35,0.43,FALSE,35 of 46,Gold,TCO Certified Displays 9
+Display,ASUS,VA27ACFSN,December. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,437,0.839,0.002,0.157,0.002,63.9,TFT LCD,2560 x 1440,27,310.47,19.78,0.57,FALSE,25 of 46,Silver,TCO Certified Edge Displays
+Display,ASUS,PA34VCNV,February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,640,0.749,0.003,0.246,0.002,61.1,TN LCD,3440 x 1440,34.1,415.05,26.9,0.23,FALSE,26 of 46,Silver,TCO Certified Displays 9
+Laptop,ASUS,ExpertBook B5 Flip(B5402FV),2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,251,0.815,,0.161,0.001,15.4,,,,,,,FALSE,35 of 46,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,Expertbook B2 Flip (B2502FV),2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,240,0.807,0.032,0.16,,14.9,,,,,,,FALSE,37 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,Chromebook CM14 (CM1402CM2),2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,209,,,0.143,,11.7,,,,,,,FALSE,38 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,Chromebook CM34 Flip (CM3401FF),2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,279,0.785,0.03,0.184,0.001,16.8,,,,,,,FALSE,29 of 49,Silver,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook B2 Flip (B2502FB),2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,295,0.805,0.03,0.164,,17.2,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,Chromebook CX34 (CX3402CB),2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,212,0.787,0.028,0.183,,11.9,,,,,,,FALSE,38 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,Vivobook S 14 Flip OLED (TN3402),2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,270,,,0.2,,16.9,,,,,,,FALSE,27 of 49,Silver,
+Laptop,ASUS,ExpertBook B5 B5302C,Oct. 2021,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,199,,,0.02,,13.7,,,,,,,,,,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook B5 B5302F,Oct. 2021,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,222,,,,,13.7,,,,,,,,,,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook L1 L1400CD,Oct. 2021,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,245,,,0.24,,,,,,,,,FALSE,26 of 49,Silver,
+Laptop,ASUS,ExpertBook L1 L1500CD,Oct. 2021,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,263,,,0.28,,,,,,,,,FALSE,27 of 49,Silver,
+Laptop,ASUS,BR1100FKA,Oct. 2021,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,184,,,0.2,,15.1,,,,,,,FALSE,37 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,Chromebook CR1100,Nov. 2021,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,156,,,0.17,,,,,,,,,FALSE,37 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,BR1100CKA,Nov. 2021,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,172,,,0.19,,,,,,,,,FALSE,37 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook B7 B7402FE,Nov. 2021,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,248,,,0.24,,17.1,,,,,,,FALSE,35 of 46,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertCenter E5 AiO E5402WH,Dec. 2021,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,893,0.51,,0.27,,71.4,,,,,,,,,,
+Laptop,ASUS,ExpertBook B3 B3402FEA,Jan. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,272,,,0.25,,18.8,,,,,,,,,,
+Laptop,ASUS,Chromebook Flip CX1 (CX1102F k),Feb. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,143,0.764,0.44,0.19,0.002,10.6,,,,,,,,,,
+Laptop,ASUS,P1412,Apr. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,204,0.51,0.11,0.37,0.01,18.6,,,,,,,,,,
+Laptop,ASUS,P1512,Apr. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,226,0.51,0.1,0.38,0.01,20.8,,,,,,,,,,
+Laptop,ASUS,ExpertBook B9 B9400CE,July. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,220,0.78,0.03,0.189,0.001,17.1,,,,,,,FALSE,36 of 46,Gold,
+Laptop,ASUS,ExpertBook B9 B9400CB,22-Aug,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,217,,0.025,0.121,0.31,12.2,,,,,,,,,,
+Laptop,ASUS,Chromebook Flip CX1 (CX1500FKA),22-Aug,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,233,0.809,0.032,0.157,,14.2,,,,,,,,,,
+Laptop,ASUS,ExpertCenter E1 AiO (E1600),September. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,264,,0.003,,0.001,29.9,,,,,,,,,,
+Laptop,ASUS,ExpertBook L2 (L2402C),22-Sep,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,251,,,0.19,,17.9,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,ExpertBook B2 (B2402CB),22-Sep,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,263,0.759,,0.208,,18.3,,,,,,,FALSE,28 of 49,Silver,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook B2 Flip (B2402FB),22-Sep,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,268,0.763,0.033,0.203,,18.3,,,,,,,FALSE,28 of 49,Silver,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook B2 (B2502CB),22-Sep,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,293,0.788,0.03,0.181,,17.2,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,ExpertBook B3 Flip (B3402FE),22-Sep,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,296,,,0.216,,18.8,,,,,,,,,,
+Laptop,ASUS,ExpertBook L2 Flip (L2402 F),22-Sep,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,254,,,0.188,,17.9,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,ExpertBook L2 (L2502C),22-Sep,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,292,0.805,0.03,0.164,,18.3,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,ExpertBook L2 Flip (L2502F),22-Sep,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,293,0.808,0.027,0.164,0.001,18.3,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,Chromebook Flip CX1 (CX1400Fk),22-Sep,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,175,,0.3,0.197,,13.6,,,,,,,,,,
+Laptop,ASUS,Chromebook CX1 (CX1500CK),22-Sep,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,239,0.824,0.031,0.144,,13,,,,,,,FALSE,27 of 49,Silver,
+Laptop,ASUS,Zenbook 13 OLED (UM5302T),22-Sep,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,237,0.777,0.043,0.179,0.001,15.8,,,,,,,FALSE,28 of 44,Silver,
+Laptop,ASUS,Chromebook Flip CX5 (CX5400FM),September. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,221,,0.21,0.138,0.001,10.8,,,,,,,,,,
+Laptop,ASUS,Chromebook CX1 (CX1400Ck),22-Sep,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,172,0.768,0.035,0.195,0.002,12.8,,,,,,,,,,
+Laptop,ASUS,ExpertBook Bl (B1I500CB),22-Nov,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,315,,0.025,0.132,,17.5,,,,,,,FALSE,29 of 49,Silver,
+Laptop,ASUS,ExpertBook B3 Flip (B3402FB),November. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,300,,,0.227,,18.4,,,,,,,FALSE,28 of 49,Silver,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook B5 (B5302CB),22-Nov,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,230,,,0.242,,13.7,,,,,,,FALSE,33 of 44,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook B5 Flip (B5302FB),22-Nov,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,230,,,0.242,,13.7,,,,,,,FALSE,33 of 44,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook B5 (B5402CB),22-Nov,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,270,,0.026,0.152,,15.4,,,,,,,FALSE,34 of 44,Gold,
+Laptop,ASUS,ExpertBook Bl (B1I400CB),22-Nov,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,265,,,0.163,,18.3,,,,,,,FALSE,29 of 49,Silver,
+Laptop,ASUS,ExpertBook B5 Flip (B5402FB),22-Nov,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,264,,0.24,0.155,0.01,15.4,,,,,,,FALSE,34 of 44,Gold,
+Laptop,ASUS,Chromebook Detachable CM3 (CM3000DV),November. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,157,0.776,0.056,0.167,,9.6,,,,,,,FALSE,22 of 44,Silver,
+Laptop,ASUS,Chromebook Detachable CZ1 (CZ1IOOODV),November. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,122,0.714,0.058,0.227,0.001,10.2,,,,,,,,,,
+Laptop,ASUS,ExpertBook B5(B5602C B),December. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,307,,0.029,0.135,,26.6,,,,,,,FALSE,35 of 46,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook B5 OLED(B5602FB),December. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,320,,0.27,0.13,,26.6,,,,,,,FALSE,35 of 46,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook B???????????????? (B6602FC),December. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,476,,,0.123,,35.2,,,,,,,FALSE,38 of 49,Gold,
+Laptop,ASUS,Chromebook Flip CX5 (CX5601FB),December. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,281,,0.028,0.148,,16.6,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,ExpertBook B5 Flip(B5402FE),December. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,271,,0.025,,,20.3,,,,,,,,,,
+Laptop,ASUS,ExpertBook B3 Detachable (B3000DQ!1),December. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,122,0.628,,0.34,0.002,13.3,,,,,,,,,,
+Laptop,ASUS,ExpertBook B5(B5402C E),December. 2022,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,248,,0.23,0.166,,20.3,,,,,,,,,,
+Laptop,ASUS,Chromebook CX34 Flip (CX3401FB),23-Feb,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,271,0.853,0.021,0.124,0.002,12.7,,,,,,,,,,
+Laptop,ASUS,Zenbook 14 OLED (UM3402Y),Feb. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,252,,,,,25.6,,,,,,,FALSE,26 of 49,Silver,
+Laptop,ASUS,Zenbook 14X OLED (UX3404V),Feb. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,290,,,0.209,,22.9,,,,,,,FALSE,26 of 47,Silver,
+Laptop,ASUS,Zenbook 14 Flip OLED (UP3404V),Feb. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,273,0.739,0.041,0.219,0.001,22.6,,,,,,,FALSE,29 of 49,Silver,
+Laptop,ASUS,ExpertBook B5 (B5402CV),2/13/2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,245,,,0.165,0.001,15.4,,,,,,,FALSE,35 of 46,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,Zenbook S 13 OLED (UX5304V),April. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,213,0.707,0.032,0.259,,16.9,,,,,,,TRUE,35 of 46,Gold,
+Laptop,ASUS,ExpertBook B5 OLED(B5602CV),4/23/2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,317,,0.202,,0.001,24.5,,,,,,,FALSE,35 of 46,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook B2 Flip (B2402FV),5/17/2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,235,,0.032,0.173,0.15,16.4,,,,,,,FALSE,37 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,Chromebook CX1 (CX1102CKA),June. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,146,0.779,0.034,0.186,,10.6,,,,,,,,,,
+Laptop,ASUS,Chromebook CR11 (CR1102CG),June. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,161,,,0.221,,14.6,,,,,,,FALSE,38 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,Chromebook CR11 Flip (CRI102FG),June. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,181,0.768,,0.197,,14.6,,,,,,,,,,
+Laptop,ASUS,Vivobook 17 (X1704Z),June. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,214,,,0.179,,14,,,,,,,FALSE,27 of 49,Silver,
+Laptop,ASUS,Vivobook 16 (X1605V),June. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,261,,,0.18,,13.1,,,,,,,FALSE,30 of 49,Silver,
+Laptop,ASUS,Vivobook 14 (X1404Z),June. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,194,0.767,0.47,0.185,0.001,14.4,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,Vivobook S 16 Flip OLED (TN3604Y),Jun. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,291,,,0.19,,21.4,,,,,,,FALSE,30 of 49,Silver,
+Laptop,ASUS,Vivobook Pro 16 OLED (K6602V),Jun. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,294,,,,,29.3,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,Zenbook Pro 14 OLED (UX6404V),June. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,357,7.73,,0.191,,26.3,,,,,,,FALSE,27 of 49,Silver,
+Laptop,ASUS,Zenbook 14 (UX3402V),Jun. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,228,,,,,24.3,,,,,,,FALSE,26 of 49,Silver,
+Laptop,ASUS,Expertbook B2 (B2502CV),6/27/2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,237,,0.031,0.162,0.14,14.9,,,,,,,FALSE,37 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,Expertbook B2 (B2402CV),6/28/2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,233,,0.031,0.175,,16.4,,,,,,,FALSE,37 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,Chromebook CM14 Flip (CM1402FM2),8/22/2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,212,,,0.141,,11.3,,,,,,,FALSE,38 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook B7 Flip (B7402FV),September. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,234,0.776,0.03,0.193,,17.3,,,,,,,FALSE,35 of 46,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook Bl (B1502CV; B1I502CVA),23-Sep,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,182,0.19,,,0.002,15.3,,,,,,,FALSE,37 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook Bl (B1402CV; B1402CVA),23-Sep,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,175,,,,,15.2,,,,,,,FALSE,37 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook B9 OLED (B9403CV),September. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,202,,0.12,0.173,,20.2,,,,,,,FALSE,37 of 46,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,Vivobook Pro 15 OLED,September. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,264,,,0.239,,24.7,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,Zenbook S 13 OLED (UM5302L),September. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,214,,,,,19.3,,,,,,,FALSE,26 of 46,Silver,
+Laptop,ASUS,Zenbook 15 OLED (UM3504D),September. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,258,,,,,27.4,,,,,,,FALSE,27 of 49,Silver,
+Laptop,ASUS,Vivobook 16X OLED,September. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,262,,,0.233,,23.8,,,,,,,FALSE,27 of 49,Silver,
+Laptop,ASUS,"Vivobook 14X OLED(K3405V, series: V3405V, S3405V)",September. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,253,,,0.233,,22.4,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,Vivobook 13 Slate OLED (T3304G),September. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,264,0.709,,0.247,0.01,15.1,,,,,,,FALSE,25 of 46,Silver,
+Laptop,ASUS,BR1402CG,9/11/2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,200,0.797,0.037,0.164,0.002,11.4,,,,,,,FALSE,39 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,Zenbook Pro 14 Duo OLED,October. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,268,,,,,27.4,,,,,,,FALSE,26 of 46,Silver,
+Laptop,ASUS,Vivobook 14X OLED (K3405Z),October. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,243,0.75,0.034,0.215,0.01,20.1,,,,,,,FALSE,29 of 49,Silver,
+Laptop,ASUS,"Vivobook 17X (K3704V, Series: V3704V, S3704V, P3704CV))",November. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,231,,,,0.002,17.3,,,,,,,FALSE,27 of 49,Silver,
+Laptop,ASUS,"Vivobook 16X OLED(K3604V (Series: S3604V, V3604V))",November. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,211,,0.769,0.184,,14.9,,,,,,,FALSE,27 of 49,Silver,
+Laptop,ASUS,Vivobook 15X OLED,November. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,229,,,,,15.6,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,Vivobook 15X OLED,November. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,232,0.75,0.036,0.261,0.01,14.7,,,,,,,FALSE,27 of 49,Silver,
+Laptop,ASUS,"Vivobook 16X OLED(K3604Z, Series: S3604Z, V3604Z)",November. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,231,0.731,,0.227,,15.7,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,Vivobook S 16 Flip OLED,November. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,296,,,0.227,,16.3,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,"ASUS Vivobook 15 (M1502Y, Series:D1405Y, Y1405CY)",November. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,221,0.698,0.029,0.271,0.002,23.5,,,,,,,FALSE,27 of 49,Silver,
+Laptop,ASUS,"ASUS Vivobook 14 OLED (M1405Y, Series:D1405Y, Y1405CY)",November. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,208,0.727,0.027,0.245,0.001,20,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,Vivobook Pro 15 OLED,November. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,244,,,0.279,,26.6,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,BR1104CG,11/30/2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,116,0.832,0.031,0.135,,11.8,,,,,,,TRUE,37 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,"Vivobook S 15 OLED (K5504V, Series: VS504V, S5504V)",December. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,234,,,0.204,,18.5,,,,,,,FALSE,29 of 49,Silver,
+Laptop,ASUS,"Vivobook 15 OLED (M1505Y, Series: DIS5O5Y, Y1I505CY)",December. 2023,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,221,0.698,,2.71,,23.5,,,,,,,FALSE,26 of 49,Silver,
+Laptop,ASUS,ExpertBook B5 (B5404CM),February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,251,0.844,0.012,0.144,0.001,15.5,,,,,,,TRUE,37 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook B5 (B5404CV),February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,250,0.877,,0.12,,12.6,,,,,,,TRUE,37 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook B5 (B5604CM),February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,265,0.834,0.14,0.151,,18.9,,,,,,,TRUE,37 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook B5 (B56????????????????604CV),February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,266,0.87,0.14,0.014,,13.5,,,,,,,TRUE,37 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,Vivobook 16 (M1605xX),24-Feb,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,245,0.713,0.032,0.253,0.002,24,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,"Vivobook 15X OLED(M3504Y, Series: D3504Y, Y3504CY)",February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,226,,0.769,0.184,,23.4,,,,,,,FALSE,27 of 49,Silver,
+Laptop,ASUS,"Vivobook 16X OLED(M3604Y, Series: D3604Y, Y3604CY)",February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,255,,,0.184,,24.1,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,"Vivobook 17X (M3704Y, Series: D3704Y, Y3704CY)",February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,231,,,0.188,,17.7,,,,,,,FALSE,27 of 49,Silver,
+Laptop,ASUS,"Vivobook 14 (X1404V, Series: FI4O4V, RI404V, A1l404V, P1404CV)",February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,191,,,0.203,,13.8,,,,,,,FALSE,27 of 49,Silver,
+Laptop,ASUS,"Vivobook 15(X1502V, Series: F1I502V, R1502V, Al502V, P1502CV)",February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,206,0.8,,0.165,0.01,12.9,,,,,,,FALSE,27 of 49,Silver,
+Laptop,ASUS,"Vivobook 15(X1504Z, Series: F1504Z, R1I504Z, A1504Z, P1504CZ)",February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,200,0.783,0.032,0.183,,12.5,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,"Vivobook 17 (X1704V, Series: F1704V, R1704V, A1704V, P1704CV)",February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,218,0.789,0.037,0.172,,13.6,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,Zenbook S 13 OLED (UX5304M),February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,156,,,,0.002,14.3,,,,,,,TRUE,35 of 46,Gold,
+Laptop,ASUS,Zenbook DUO (UX8406M),24-Feb,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,211,0.733,,0.223,0.002,19.4,,,,,,,FALSE,35 of 46,Gold,
+Laptop,ASUS,"Zenbook 14 OLED (UX3405M, Series: Q415M, Q425M)",February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,210,0.766,0.041,0.192,0.001,15.3,,,,,,,FALSE,39 of 49,Gold,
+Laptop,ASUS,FA507NU,February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,336,0.71,0.041,0.248,0.001,35.2,,,,,,,FALSE,18 of 49,Bronze,
+Laptop,ASUS,FA507NV,February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,336,0.708,0.42,0.248,0.002,35.2,,,,,,,FALSE,18 of 49,Bronze,
+Laptop,ASUS,FA507RM,February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,361,0.677,,0.284,0.002,35.2,,,,,,,FALSE,19 of 49,Bronze,
+Laptop,ASUS,FA707X|,February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,346,0.708,0.48,0.242,0.002,31.5,,,,,,,FALSE,18 of 49,Bronze,
+Laptop,ASUS,FX506HE,February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,348,0.716,0.036,0.246,0.002,,,,,,,,,,,
+Laptop,ASUS,"Vivobook 15(X1504V, Series: FISO4V, RIS5O04V, A1I5O4V, PI504CV)",February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,197,0.777,0.032,0.189,,14.9,,,,,,,FALSE,27 of 49,Silver,
+Laptop,ASUS,Vivobook 15 OLED,February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,224,0.744,,0.226,0.002,18,,,,,,,FALSE,26 of 49,Silver,
+Laptop,ASUS,FX506HC,February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,341,0.71,,0.251,0.002,,,,,,,,,,,
+Laptop,ASUS,Chromebook CM30 Detachable (CM3001DM2),24-Feb,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,68,0.683,0.017,0.298,0.002,8.6,,,,,,,TRUE,37 of 49,Gold,TCO Certified Tablets 9
+Laptop,ASUS,FX506HF,February. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,327,0.716,0.036,0.246,0.002,,,,,,,,,,,
+Laptop,ASUS,BR1204FG,March. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,118,0.838,0.032,0.128,0.002,11,,,,,,,TRUE,37 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,BR1204CG,March. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,115,0.836,0.031,0.131,0.002,11,,,,,,,TRUE,37 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,G614JZ,April. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,419,0.737,0.057,0.204,0.002,32.6,,,,,,,,,,
+Laptop,ASUS,GX650PY,April. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,551,0.642,0.052,0.305,0.001,,,,,,,,,,,
+Laptop,ASUS,G713PI,April. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,438,0.65,0.056,0.293,0.001,,,,,,,,,,,
+Laptop,ASUS,G713PV,April. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,425,0.668,,2.74,0.001,,,,,,,,,,,
+Laptop,ASUS,GZ301VU,April. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,232,0.676,0.064,0.259,0.002,,,,,,,,,,,
+Laptop,ASUS,FX507ZU,April. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,314,0.647,,0.292,0.002,,,,,,,,FALSE,18 of 49,Bronze,
+Laptop,ASUS,G614JV,April. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,406,0.669,,0.276,0.001,,,,,,,,,,,
+Laptop,ASUS,GU603VI,April. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,362,0.791,,0.193,0.002,,,,,,,,,,,
+Laptop,ASUS,GU603ZV,April. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,322,0.723,,2.14,0.002,,,,,,,,,,,
+Laptop,ASUS,GV302XV,April. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,251,0.739,0.053,0.207,0.001,,,,,,,,,,,
+Laptop,ASUS,Vivobook S 14 Flip,24-Apr,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,272,,0.046,,0.001,20,,,,,,,FALSE,28 of 49,Silver,
+Laptop,ASUS,FA617NS,April. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,364,0.687,,0.258,0.002,,,,,,,,,,,
+Laptop,ASUS,G634JZ,April. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,494,0.731,,0.218,,,,,,,,,,,,
+Laptop,ASUS,G733PYV,April. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,465,0.684,0.058,0.256,0.002,,,,,,,,,,,
+Laptop,ASUS,GU603ZU,April. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,324,0.717,,0.22,0.002,,,,,,,,,,,
+Laptop,ASUS,ExpertBook B3 (B3404CM),May. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,239,0.851,0.018,0.129,0.002,15.5,,,,,,,TRUE,37 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook B3 (B3404CV),May. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,254,0.84,0.018,0.141,0.002,12.6,,,,,,,TRUE,38 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook B3 (B3604CM),May. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,236,0.835,0.02,0.144,0.002,18.9,,,,,,,TRUE,37 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,ExpertBook B3 (B3604CV),May. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,246,0.836,0.02,0.142,0.002,13.5,,,,,,,TRUE,38 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,GA402NV,May. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,385,0.717,0.048,0.234,0.001,,,,,,,,,,,
+Laptop,ASUS,GA402XI,May. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,412,0.72,0.045,0.234,0.001,,,,,,,,,,,
+Laptop,ASUS,GA402XZ,May. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,417,0.765,0.044,0.19,0.001,,,,,,,,,,,
+Laptop,ASUS,BR1402FG,6/28/2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,212,0.806,0.037,0.155,0.002,11.4,,,,,,,FALSE,39 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,BR1102FG,6/28/2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,195,0.785,0.03,0.184,0.001,13.5,,,,,,,FALSE,37 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,BR1104FG,March. 2024,Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,120,0.834,0.032,0.131,0.002,11.8,,,,,,,TRUE,37 of 49,Gold,TCO Certified Notebooks 9
+Laptop,ASUS,BR1102CG,"August, 2023",Please contact Asus to obtain the raw data.,,,,,,,,,,,,,,,,,,,,,,178,0.766,0.031,0.201,0.002,13.5,,,,,,,FALSE,37 of 49,Gold,TCO Certified Notebooks 9

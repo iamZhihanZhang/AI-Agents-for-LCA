@@ -1,0 +1,139 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lca-agentic"
+version = "0.1.0"
+description = "Multi-agent Life Cycle Assessment using MCP and self-play"
+readme = "README.md"
+requires-python = ">=3.10"
+
+authors = [
+  { name = "Zhihan Zhang", email = "zzhihan@cs.washington.edu" },
+  { name = "Alexander Metzger", email = "metzgera@cs.washington.edu" }
+]
+
+keywords = [
+  "lca",
+  "life-cycle-assessment",
+  "agents",
+  "mcp",
+  "sustainability",
+  "llm"
+]
+
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Intended Audience :: Science/Research",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence"
+]
+
+dependencies = [
+  # ---- Core agent + MCP ----
+  "openai>=1.55.0",
+  "openai-agents>=0.0.11",
+  "mcp>=1.6.0",
+  "fastmcp==2.2.0",
+  "pydantic>=2.8.0",
+  "pydantic-settings>=2.6.0",
+  "orjson>=3.10",
+  "tenacity>=8.5",
+  "structlog>=24.4",
+
+  # ---- Async / HTTP ----
+  "aiohttp>=3.10",
+  "httpx>=0.27",
+  "anyio>=4.4",
+
+  # ---- Parsing & retrieval ----
+  "beautifulsoup4>=4.13.0",
+  "html-to-markdown>=1.3.3",
+  "requests>=2.32",
+  "tldextract>=5.1",
+  "geopy>=2.4.1",
+
+  # ---- PDF & OCR ----
+  "PyMuPDF>=1.24",
+  "pymupdf4llm>=0.0.6",
+  "pdfminer.six>=20211012",
+  "pytesseract>=0.3.10",
+
+  # ---- Data / ML ----
+  "numpy>=1.26",
+  "pandas>=2.2",
+  "scikit-learn>=1.5",
+  "scipy>=1.13",
+  "networkx>=3.3",
+
+  # ---- Vision (core, lightweight) ----
+  "opencv-python-headless>=4.10",
+  "pillow>=10.3",
+  "scikit-image>=0.24",
+  "imutils>=0.5.4",
+
+  # ---- Utilities ----
+  "python-dotenv>=1.0",
+  "rich>=13.0",
+  "typer>=0.12"
+]
+
+[project.optional-dependencies]
+
+vision = [
+  "torch==2.11.0",
+  "torchvision==0.26.0",
+  "ultralytics==8.4.33",
+  "inference==1.2.0",
+  "inference-sdk==1.2.0",
+  "supervision==0.27.0.post2",
+  "zxing-cpp==2.2.0",
+  "shapely==2.0.7",
+  "matplotlib==3.10.8"
+]
+
+sam = [
+  "segment_anything @ git+https://github.com/facebookresearch/segment-anything.git@6fdee8f2727f4506cfbbe553e23b895e27956588",
+  "SAM-2 @ git+https://github.com/facebookresearch/segment-anything-2.git@0db838b11726893f151fa5826ecfa744e1a7760f"
+]
+
+ui = [
+  "fastapi>=0.115",
+  "uvicorn>=0.30",
+  "streamlit>=1.36",
+  "gradio>=5.7",
+  "prometheus-fastapi-instrumentator>=6.0.0"
+]
+
+dev = [
+  "pytest>=8.3",
+  "ruff>=0.8.0",
+  "ipython>=8.25",
+  "ipykernel>=6.29",
+  "jupyter>=1.0",
+  "pre-commit>=3.7"
+]
+
+[project.scripts]
+lca-self-play = "scripts.run_self_play:main"
+
+[tool.setuptools]
+package-dir = {"" = "."}
+
+[tool.setuptools.packages.find]
+include = ["agentic_lci*"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+minversion = "8.0"
+addopts = "-ra"
+testpaths = ["tests"]

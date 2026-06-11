@@ -77,46 +77,56 @@
 
             <div class="column has-text-centered">
               <div class="publication-links">
-                <!-- PDF Link. -->
+                <!-- Paper Link. -->
                 <span class="link-block">
                   <a href="https://www.nature.com/articles/s41928-026-01653-w"
                      class="external-link button is-normal is-rounded is-dark">
                     <span class="icon">
-                        <i class="fas fa-file-pdf"></i>
+                        <i class="fas fa-book-open"></i>
                     </span>
-                    <span>Paper</span>
+                    <span>Full Paper</span>
                   </a>
                 </span>
 
-              <!-- Code Link. -->
-              <span class="link-block">
-                <a href="https://github.com/iamZhihanZhang/AI-Agents-for-LCA"
-                   class="external-link button is-normal is-rounded is-dark">
-                  <span class="icon">
-                      <i class="fab fa-github"></i>
-                  </span>
-                  <span>Code</span>
+                <span class="link-block">
+                  <a href="https://www.nature.com/articles/s41928-026-01653-w"
+                     class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                        <i class="fas fa-newspaper"></i>
+                    </span>
+                    <span>Briefing</span>
                   </a>
-              </span>
+                </span>
+
+                <!-- Code Link. -->
+                <span class="link-block">
+                  <a href="https://github.com/iamZhihanZhang/AI-Agents-for-LCA"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                        <i class="fab fa-github"></i>
+                    </span>
+                    <span>Code</span>
+                    </a>
+                </span>
             
-              <span class="link-block is-hidden-mobile" style="position: relative;">
-                <details style="display: inline-block; vertical-align: middle; margin-top: 5px;">
-                  <summary class="external-link button is-normal is-rounded is-light" style="list-style: none; cursor: pointer; display: inline-flex; align-items: center; gap: 0.35rem; height: 2.6em; padding: 0 1.1em; box-sizing: border-box; background: #ffffff; border: 1px solid #e5e7eb; color: #363636;">
-                    <span class="icon">
-                      <i class="fas fa-home"></i>
-                    </span>
-                    <span>Related Research</span>
-                    <span class="icon">
-                      <i class="fas fa-chevron-down"></i>
-                    </span>
-                  </summary>
-                  <div style="position: absolute; right: 0; margin-top: 1.0rem; padding: 0.4rem 0.6rem; background: #ffffff; border-radius: 10px; border: 1px solid #e5e7eb; box-shadow: 0 4px 10px rgba(15, 23, 42, 0.12); text-align: left; min-width: 200px; z-index: 20;">
-                    <a href="https://dl.acm.org/doi/abs/10.1145/3749488" style="display: block; color: #4a4a4a; font-weight: 600; padding: 0.35rem 0.25rem;">Living Sustainability</a>
-                    <a href="https://dl.acm.org/doi/abs/10.1145/3643561" style="display: block; color: #4a4a4a; font-weight: 600; padding: 0.35rem 0.25rem;">DeltaLCA</a>
-                    <a href="https://dl.acm.org/doi/full/10.1145/3706598.3713299" style="display: block; color: #4a4a4a; font-weight: 600; padding: 0.35rem 0.25rem;">Interview Study</a>
-                  </div>
-                </details>
-              </span>
+                <span class="link-block is-hidden-mobile" style="position: relative;">
+                  <details style="display: inline-block; vertical-align: middle; margin-top: 5px;">
+                    <summary class="external-link button is-normal is-rounded is-light" style="list-style: none; cursor: pointer; display: inline-flex; align-items: center; gap: 0.35rem; height: 2.6em; padding: 0 1.1em; box-sizing: border-box; background: #ffffff; border: 1px solid #e5e7eb; color: #363636;">
+                      <span class="icon">
+                        <i class="fas fa-scroll"></i>
+                      </span>
+                      <span>Related Research</span>
+                      <span class="icon">
+                        <i class="fas fa-chevron-down"></i>
+                      </span>
+                    </summary>
+                    <div style="position: absolute; right: 0; margin-top: 1.0rem; padding: 0.4rem 0.6rem; background: #ffffff; border-radius: 10px; border: 1px solid #e5e7eb; box-shadow: 0 4px 10px rgba(15, 23, 42, 0.12); text-align: left; min-width: 200px; z-index: 20;">
+                      <a href="https://dl.acm.org/doi/abs/10.1145/3749488" style="display: block; color: #4a4a4a; font-weight: 600; padding: 0.35rem 0.25rem;">Living Sustainability</a>
+                      <a href="https://dl.acm.org/doi/abs/10.1145/3643561" style="display: block; color: #4a4a4a; font-weight: 600; padding: 0.35rem 0.25rem;">DeltaLCA</a>
+                      <a href="https://dl.acm.org/doi/full/10.1145/3706598.3713299" style="display: block; color: #4a4a4a; font-weight: 600; padding: 0.35rem 0.25rem;">Challenges in LCA</a>
+                    </div>
+                  </details>
+                </span>
               </div>
             </div>
           </div>
@@ -153,8 +163,21 @@
         <div style="text-align: center;">
           <img src="./static/images/Fig1.jpg" class="interpolation-image" style="width: 75%; height: auto;"/>
         </div>
+        <p style="text-align: justify; width: 75%; margin: 12px auto 0;">
+          <b>Autonomous LCA using multi-agent self-play.</b> <b>a,</b> Google Search trends for sustainability-related keywords from 2008 to 2025, highlighting the growing public interest in considering EI in daily lives. However, critical EI information remains largely unavailable, especially for electronic devices. Search interest score is normalized monthly, with a value of 1 representing the peak popularity of the term. <b>b,</b> EI is traditionally assessed via LCA, a manual, expert-driven process. LCA experts construct a LCI by identifying all components involved throughout a product's life cycle, requiring manual collection efforts, coordinating multiple stakeholders within the company and external suppliers, and then mapping each entry in the LCI to an emission factor in databases. c, An autonomous multi-AI-agent system capable of generating LCIs for real-world products and estimating their EI. The system simulates the traditional LCA process at scale through a multi-agent self-play environment in which an LCA expert iteratively refines the LCI by consulting with a variety of stakeholders representing different knowledge and expertise through iterative querying and dialogue. The refined LCI can be used for standard LCIA to deliver a final EI, or for estimation using a weighted sum of similar objects with known emissions based on domain-specific features. d, Proposed system outperforms current practice in both technical performance (for example, time efficiency) and user perception (for example, confidence in accurately finding EI information) compared with conventional search approaches.
+        </p>
   </div>
 </section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <p>
+        Questions? Please email Zhihan Zhang at z{first name}@cs.washington.edu or Vikram Iyer at vs{last name}@uw.edu
+      </p>
+    </div>
+  </div>
+</footer>
 
 </body>
 </html>
